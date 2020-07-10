@@ -5,7 +5,7 @@ Program that learns by html
 
 ![alt tag](https://sunnypradotcom.files.wordpress.com/2020/07/repository-open-graph-template-1-2.png)
 
-### [NeuroEvolution.js](https://github.com/p434/indel/blob/master/Ass.html) : Utilization
+### [NeuroEvolution.js](https://github.com/p434/indel/blob/master/Ass.html) : Utilization.
 ```javascript
 // Initialize
 var ne = new Neuroevolution({options});
